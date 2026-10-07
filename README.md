@@ -4,9 +4,9 @@
 .            *            .            *         
                _____________                        
 *           __/             \__          .                     
- .         /    ____________    \                                   
+           /    ____________    \                                   
           /    /            \    \           snatbep@Fuck ~]$  cat ~/readme.sh              
-         |    |   _      _   |    |      .     presentation () {     
+  .      |    |   _      _   |    |      .     presentation () {     
          |    |  (O)    (O)  |    |              echo "[*] Hi, I'm $1"   
          |    |      /\      |    |              echo "[!] Check my projects and my tools... "  
           \    \____________/    /      .        exit 0;
