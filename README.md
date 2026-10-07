@@ -1,5 +1,5 @@
 <h1 align="center">[root@Dart user]# whoami</h1> 
-``` bash
+
              _______
           __/       \__
          /             \
@@ -14,7 +14,7 @@
          /             \
         /               \
 
-
+``` bash
 snatbep@Dart ~]$  nvim ~/readme.sh
 
 
