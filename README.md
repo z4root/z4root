@@ -1,27 +1,24 @@
 <h1 align="center">[root@Dart user]# whoami</h1> 
 
              _______
-          __/       \__
-         /             \
-        |   _________   |
-        |  /         \  |
-        | |   O   O   | |
-        |  \___ ^ ___/  |
-         \     ---     /
-          \___________/
-             /     \
-          __/       \__
-         /             \
-        /               \
-
-``` bash
-snatbep@Dart ~]$  nvim ~/readme.sh
+          __/       \__       snatbep@Dart ~]$  nvim ~/readme.sh                        
+         /             \        ``` bash  
+        |   _________   |            #!/usr/bin/bash
+        |  /         \  |             presentation () {
+        | |   O   O   | |              echo "[*] Hi, I'm $1"
+        |  \___ ^ ___/  |         
+         \     ---     /             
+          \___________/               
+             /     \              
+          __/       \__                 
+         /             \              
+        /               \              
+                                           
 
 
-#!/usr/bin/bash
 
-presentation () {
-   echo "[*] Hi, I'm $1"
+
+  
    echo "[!] Check my projects and my tools... "
    echo "[!] I like building small programs to improve my workflow."
    echo "---------------------------------------------------------------"
@@ -30,7 +27,6 @@ presentation () {
 }
 
 presentation "Only a guy!"
-
 ```
 
 
