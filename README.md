@@ -17,7 +17,7 @@
       /    /                    \    \           + Python: scripting & automation
      |    |   [  ]  (  )  [  ]   |    |          + JavaScript: React basics  
      |    |   ----------------   |    |          + HTML/CSS/SCSS: UI & design
-     |    |   |       |      |   |    |          + Bash: scripting & automation (Yep, it's a programming language :O) 
+     |    |   |       |      |   |    |          + Bash: scripting & automation 
      |    |   |      _|_     |   |    |          + Rust: I've used this language in two of my projects :)
      |    |   |______________|   |    |          
      |    \______________________/    |                
