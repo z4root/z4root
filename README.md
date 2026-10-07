@@ -1,5 +1,10 @@
 <h1 align="center">[root@Dart user]# whoami</h1> 
-``snatbep@Dart ~]$``  nvim ~/readme.sh
+
+```bash
+snatbep@Dart ~]$ nvim ~/readme.sh
+```
+
+
 
              _______           #!/usr/bin/bash
           __/       \__        presentation () {                
@@ -15,10 +20,12 @@
          /             \              
         /               \              
 
-``snatbep@Dart ~]$`` cat ~/languages.txt
+```bash
+snatbep@Dart ~]$ cat ~/languages.txt
 
 - Python: scripting & automation
 - JavaScript: React basics
 - HTML/CSS/SCSS: UI & design
 - Bash: scripting & automation (Yep, it's a programming language :O)
 - Rust: I've used this language in two of my projects :)
+```
