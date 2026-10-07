@@ -1,7 +1,7 @@
-<h1 align="center">[root@Dart user]# whoami</h1> 
+<h1 align="center">[root@Fuck you]# whoami</h1> 
 
 ```bash
-snatbep@Dart ~]$ nvim ~/readme.sh
+snatbep@Fuck ~]$ nvim ~/readme.sh
 
              _______           #!/usr/bin/bash
           __/       \__        presentation () {                
