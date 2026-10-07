@@ -1,23 +1,23 @@
 <h1 align="center">[root@Fuck you]# whoami</h1> 
 
 ```bash
-snatbep@Fuck ~]$ nvim ~/readme.sh
+snatbep@Fuck ~]$  cat ~/readme.sh
 
-             _______           #!/usr/bin/bash
-          __/       \__        presentation () {                
-         /             \         echo "[*] Hi, I'm $1"  
-        |   _________   |        echo "[!] Check my projects and my tools... "
-        |  /         \  |        echo "[!] I like building small programs to improve my workflow."
-        | |   O   O   | |        echo "[>] Interested in: cybersecurity (Red Team) and Web Development."       
-        |  \___ ^ ___/  |        exit 0;
-         \     ---     /       }   
-          \___________/               
-             /     \              
+             _______          
+          __/       \__                     
+         /             \       #!/usr/bin/bash
+        |   _________   |      presentation () {    
+        |  /         \  |        echo "[*] Hi, I'm $1"  
+        | |   O   O   | |        echo "[!] Check my projects and my tools... " 
+        |  \___ ^ ___/  |        echo "[!] I like building small programs to improve my workflow."
+         \     ---     /         echo "[>] Interested in: Hacking (Red Team) and Web Development."   
+          \___________/          exit 0;  
+             /     \           }    
           __/       \__                 
          /             \              
         /               \              
 
-snatbep@Dart ~]$ cat ~/languages.txt
+snatbep@Fuck ~]$  cat ~/languages.txt
 
 - Python: scripting & automation
 - JavaScript: React basics
