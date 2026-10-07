@@ -4,18 +4,17 @@
 snatbep@Fuck ~]$  cat ~/readme.sh
 
              _______          
-          __/       \__                     
-         /             \       #!/usr/bin/bash
-        |   _________   |      presentation () {    
-        |  /         \  |        echo "[*] Hi, I'm $1"  
-        | |   O   O   | |        echo "[!] Check my projects and my tools... " 
-        |  \___ ^ ___/  |        echo "[!] I like building small programs to improve my workflow."
-         \     ---     /         echo "[>] Interested in: Hacking (Red Team) and Web Development."   
-          \___________/          exit 0;  
-             /     \           }    
-          __/       \__                 
+          __/       \__                          
+        |   _________   |      #!/usr/bin/bash
+        |  /         \  |      presentation () {    
+        | |   *   *   | |        echo "[*] Hi, I'm $1" 
+        |  \___ ^ ___/  |        echo "[!] Check my projects and my tools... " 
+         \     <>      /         echo "[!] I like building small programs to improve my workflow."
+          \___________/          echo "[>] Interested in: Hacking (Red Team) and Web Development." 
+             /     \             exit 0; 
+          __/       \__        }          
          /             \              
-        /               \              
+
 
 snatbep@Fuck ~]$  cat ~/languages.txt
 
