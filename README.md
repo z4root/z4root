@@ -2,8 +2,6 @@
 
 ```bash
 snatbep@Dart ~]$ nvim ~/readme.sh
-```
-
 
 
              _______           #!/usr/bin/bash
@@ -19,6 +17,9 @@ snatbep@Dart ~]$ nvim ~/readme.sh
           __/       \__                 
          /             \              
         /               \              
+
+```
+
 
 ```bash
 snatbep@Dart ~]$ cat ~/languages.txt
