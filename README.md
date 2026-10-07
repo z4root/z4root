@@ -1,27 +1,27 @@
 <h1 align="center">[root@Fuck you]# whoami</h1> 
 
 ```bash
-.            *            .            *         
-               _____________                        
-*           __/             \__          .                     
-           /    ____________    \                                   
-          /    /            \    \           snatbep@Fuck ~]$  cat ~/readme.sh              
-  .      |    |   _      _   |    |      .     presentation () {     
-         |    |  (O)    (O)  |    |              echo "[*] Hi, I'm $1"   
-         |    |      /\      |    |              echo "[!] Check my projects and my tools... "  
-          \    \____________/    /      .        exit 0;
-           \____________________/              }    
-*          ___|      ||      |___     .          
-        __/          ||          \__              
-       /    _________||_________    \        snatbep@Fuck ~]$  cat ~/languages.txt       
-      /    /                    \    \           + Python: scripting & automation
-     |    |   [  ]  (  )  [  ]   |    |  *       + JavaScript: React basics  
- *   |    |   ----------------   |    |          + HTML/CSS/SCSS: UI & design
-     |    |   |       |      |   |    |          + Bash: scripting & automation 
-     |    |   |      _|_     |   |    |          + Rust: I've used this language in two of my projects :)
-.    |    |   |______________|   |    |     *       
-     |    \______________________/    |                
-     |        |              |        |      .               
+.            *            .            *           
+               _____________                       
+*           __/             \__          .    snatbep@Fuck ~]$  cat ~/readme.sh              
+           /    ____________    \               presentation () {              
+          /    /            \    \                 echo "[*] Hi, I'm $1" 
+  .      |    |   _      _   |    |      .         echo "[!] Check my projects and my tools... "
+         |    |  (O)    (O)  |    |                exit 0; 
+         |    |      /\      |    |             }  
+          \    \____________/    /      .     snatbep@Fuck ~]$  man snatbep 
+           \____________________/               NAME 
+*          ___|      ||      |___     .            snatbep - Pixel-obsessed developer & Hacker 
+        __/          ||          \__            DESCRIPTION 
+       /    _________||_________    \              Focuses on the intersection of extreme visual
+      /    /                    \    \             precision (Pixel Perfect) and fluid animations.
+     |    |   [  ]  (  )  [  ]   |    |  *         Scripting and hacking labs
+ *   |    |   ----------------   |    |         GOALS
+     |    |   |       |      |   |    |            - Sharpening the eye for detail.
+     |    |   |      _|_     |   |    |            - Own ideas in every single repository.
+.    |    |   |______________|   |    |     *      - Killing boring interfaces
+     |    \______________________/    |              
+     |        |              |        |      .      
      |________|              |________|                    
-*            .            *            .            
+*            .            *            .                  
 ```
