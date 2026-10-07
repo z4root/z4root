@@ -9,9 +9,9 @@
          |    |   _      _   |    |            presentation () {     
          |    |  (O)    (O)  |    |              echo "[*] Hi, I'm $1"   
          |    |      /\      |    |              echo "[!] Check my projects and my tools... "  
-          \    \____________/    /               echo "[!] I like building small programs to improve my workflow."  
-           \____________________/                exit 0;  
-           ___|      ||      |___              }     
+          \    \____________/    /               exit 0;
+           \____________________/              }    
+           ___|      ||      |___               
         __/          ||          \__              
        /    _________||_________    \        snatbep@Fuck ~]$  cat ~/languages.txt       
       /    /                    \    \           + Python: scripting & automation
