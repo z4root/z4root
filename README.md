@@ -17,9 +17,6 @@ snatbep@Fuck ~]$ nvim ~/readme.sh
          /             \              
         /               \              
 
-```
-
-```bash
 snatbep@Dart ~]$ cat ~/languages.txt
 
 - Python: scripting & automation
