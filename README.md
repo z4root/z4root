@@ -3,7 +3,6 @@
 ```bash
 snatbep@Dart ~]$ nvim ~/readme.sh
 
-
              _______           #!/usr/bin/bash
           __/       \__        presentation () {                
          /             \         echo "[*] Hi, I'm $1"  
@@ -19,7 +18,6 @@ snatbep@Dart ~]$ nvim ~/readme.sh
         /               \              
 
 ```
-
 
 ```bash
 snatbep@Dart ~]$ cat ~/languages.txt
