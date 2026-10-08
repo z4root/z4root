@@ -1,4 +1,4 @@
-<h1 align="center">[root@Fuck no]# whoami</h1> 
+<h1 align="center">[root@Fuck yes]# whoami</h1> 
 
 ```bash
 .            *            .            *           
