@@ -10,9 +10,9 @@
          |    |  (O)    (O)  |    |               exit 0; 
          |    |      /\      |    |            }  
           \    \____________/    /      .     
-           \____________________/            snatbep@Fuck ~]$  man snatbep   
+           \____________________/            snatbep@Fuck ~]$  manz4root   
 *          ___|      ||      |___     .        NAME    
-        __/          ||          \__              snatbep - Pixel-obsessed developer & Hacker
+        __/          ||          \__              z4root - Pixel-obsessed developer & Hacker
        /    _________||_________    \              
       /    /                    \    \         DESCRIPTION   
      |    |   [  ]  (  )  [  ]   |    |  *        Focuses on the intersection of extreme visual 
