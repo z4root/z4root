@@ -1,18 +1,18 @@
 <h1 align="center">[root@Fuck yes]# whoami</h1> 
  
 ```bash                                                          
-                  /\                              *                                        .
+                  /\                              *                               .
 .            *   /  \     /\  .           ^      snatbep@Fuck ~]$  cat ~/readme.sh
               __/    \___/  \__         _^_^_      presentation () { 
 *           __/              \__       \_____/        echo "[*] Hi, I'm $1"
-           /     ___ __ ___    \       /_____\        echo "[!] Check my projects and my tools... "
-          /    /  o      O  \    \     |=====|        exit 0;                               *
+           /     ___ __ ___    \       /_____\        echo "[!] Check my projects and my tools..."
+          /    /  o      O  \    \     |=====|        exit 0;                         *
   .      |    |    ______    |    |    |     |      }             *
          |    |    \^^^^/    |    |    |     |                                    .
          |    |     |__|     |    |    |     |   snatbep@Fuck ~]$  man z4root
-          \    \___/    \___/    /     |     |     NAME             .                          *
+          \    \___/    \___/    /     |     |     NAME             .            *
            \________    ________/      |     |        z4root - Pixel-obsessed developer & Hacker
-*          ___|     |  |      |___    /      /                               *
+*          ___|     |  |      |___    /      /                           
         __/         |  |          \__/      /      DESCRIPTION
        /    ________|  |________     ______/          Focuses on the intersection of extreme visual
       /    /                    \   /                 precision (Pixel Perfect) and fluid animations.
