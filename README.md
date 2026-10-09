@@ -2,13 +2,13 @@
  
 ```bash                                                          
                   /\                              *     snatbep@Fuck ~]$  cat ~/readme.sh
-.            *   /  \     /\  .           ^             
-              __/    \___/  \__         _^_^_             presentation () {
+.            *   /  \     /\  .        /\ ^ /\           
+              __/    \___/  \__       | _^_^_ |            presentation () {
 *           __/              \__       \_____/               echo "[*] Hi, I'm $1"
            /     ___ __ ___    \       /_____\               echo "[!] Check my projects and my tools..."
           /    /  o      O  \    \     |=====|               exit 0;                         *
-  .      |    |    ______    |    |    |     |             }             *
-         |    |    \^^^^/    |    |    |     |                                    .
+  .      |    |  \^^   ^^/   |    |    |     |             }             *
+         |    |     _^^_     |    |    |     |                                    .
          |    |     |__|     |    |    |     |          snatbep@Fuck ~]$  man z4root
           \    \___/    \___/    /     |     |                          .            *
            \________    ________/      |     |             NAME
