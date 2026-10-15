@@ -1,4 +1,4 @@
-<h1 align="center">[root@F u c k  y o u]# whoami</h1> 
+<h1 align="center">[root@F u c k   y o u]# whoami</h1> 
  
 ```bash                                                          
                   /\                              *     snatbep@Fuck ~]$  cat ~/readme.sh
