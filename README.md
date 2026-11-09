@@ -1,4 +1,4 @@
-<h1 align="center">[root@Fuck     you]# whoami</h1> 
+<h1 align="center">[root@deep]# whoami</h1> 
  
 ```bash                                                          
                   /\                              *     snatbep@Fuck ~]$  cat ~/readme.sh
@@ -6,8 +6,8 @@
               __/    \___/  \__       | _^_^_ |            presentation () {
 *           __/              \__       \_____/               echo "[*] Hi, I'm $1"
            /     ___ __ ___    \       /_____\               echo "[!] Check my projects and my tools..."
-          /    /  o      O  \    \     |=====|               exit 0;                         *
-  .      |    |  \^^   ^^/   |    |    |     |             }             *
+          /    /  o      X  \    \     |=====|               exit 0;                         *
+  .      |    |   ^          |    |    |     |             }             *
          |    |     _^^_     |    |    |     |                                    .
          |    |     |__|     |    |    |     |          snatbep@Fuck ~]$  man z4root
           \    \___/    \___/    /     |     |                          .            *
